@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Leopoldo Todisco.
 - 🌎 I'm 22 years old, and I am from Italy,
 - 📚 Currently attending Computer Science Bachelor Degree at Università di Salerno, Italy 🇮🇹.
-- 👀 I’m interested in Artificial Intelligence, Software Engineering.
+- 👀 I’m interested in Artificial Intelligence, Software Engineering and Cloud Computing.
 - 🌱 I’m currently learning Green Software Engineering, Theory of Computation and Security Fundamentals.
 
 ### Languages and Frameworks:
@@ -71,7 +71,7 @@
       width="40"
       height="40"
     />
-  </a><!--<
+  </a><
   a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -87,7 +87,7 @@
       width="40"
       height="40"
     />
-  </a>-->
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
