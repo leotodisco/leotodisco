@@ -2,8 +2,8 @@
 - 👋 Hi, I’m Leopoldo Todisco.
 - 🌎 I'm 22 years old, and I am from Italy,
 - 📚 Currently attending Computer Science Bachelor Degree at Università di Salerno, Italy 🇮🇹.
-- 👀 I’m interested in Artificial Intelligence, Web and Mobile Development.
-- 🌱 I’m currently learning Machine Learning, Distribuited Systems and Software Engineering fundamentals.
+- 👀 I’m interested in Artificial Intelligence, Software Engineering.
+- 🌱 I’m currently learning Green Software Engineering, Theory of Computation and Security Fundamentals.
 
 ### Languages and Frameworks:
 
