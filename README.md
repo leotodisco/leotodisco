@@ -2,7 +2,7 @@
 - 👋 Hi, I am Leopoldo Todisco.
 - 🌎 I am 23 years old, and I am from Italy,
 - 📚 I am a computer science student currently enrolled in the master's degree program at Università degli Studi di Salerno. 
-- 👀 My dedication to this field manifests itself in a profound interest in various aspects, with a particular focus on software engineering and Artificial Intelligence.
+- 👀 My dedication to the Computer Science manifests itself in a profound interest in various aspects, with a particular focus on Software Engineering and Artificial Intelligence.
 - 🌱 Currently, I am studying Compilers, Enterprise Mobile Application Development, and Software Dependability.
 
 ### Languages and Frameworks:
